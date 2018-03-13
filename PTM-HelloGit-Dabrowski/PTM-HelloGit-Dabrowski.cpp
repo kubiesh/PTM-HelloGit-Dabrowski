@@ -6,7 +6,8 @@
 
 int main()
 {
-	printf("Hello Git!");
+	printf("Hello GitHub!\n");
+	printf("Ja, JD, jestem pierwszym autorem tego programu\n");
     return 0;
 }
 
